@@ -6,3 +6,12 @@
     --destaque-inverso: #66bbff;
     --fundo-card: #ffffff;
 }
+
+body.escuro {
+    --fundo-principal: #121212;
+    --texto: #e0e0e0;
+    --texto-inverso: #121212;
+    --destaque: #1e90ff;
+    --destaque-inverso: #559eff;
+    --fundo-card: #1e1e1e;
+}
